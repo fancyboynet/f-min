@@ -10,6 +10,10 @@
 ```bash
 $ npm install -g f-min
 ```
+# 长时间安装不上尝试
+```bash
+$ npm install -g f-min --registry=https://registry.npm.taobao.org
+```
 # 使用
 ```bash
 $ cd ... //定位到某个目录下
