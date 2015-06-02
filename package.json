@@ -1,6 +1,6 @@
 {
   "name": "f-min",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Compress the front-end resouces such as scripts,styles and images.",
   "main": "index.js",
   "bin": {
@@ -24,7 +24,7 @@
   ],
   "author": "fancy <fancyboynet@gmail.com>",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "colors": "^1.1.0",
     "commander": "^2.8.1",
     "del": "^1.2.0",
